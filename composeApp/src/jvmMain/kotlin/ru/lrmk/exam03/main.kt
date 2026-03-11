@@ -17,6 +17,7 @@ import exam03.composeapp.generated.resources.icon
 import org.jetbrains.compose.resources.painterResource
 import ru.lrmk.exam03.tests.Tests
 
+// Пожалуйста, не вносите изменения в этот файл. Интерфейс пользователя описывайте в файле Application.kt.
 
 fun main() = application {
     Window(
