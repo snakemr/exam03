@@ -1,3 +1,5 @@
+Подробное описание работы — на [**сайте ЛРМК**](https://moodle.lrmk.ru/course/view.php?id=10) (нажмите "зайти гостем")
+
 **Порядок работы:**
 
 1. Файл [sqldelight/.../**user.sq**](composeApp/src/jvmMain/sqldelight/ru/lrmk/exam03/database/user.sq) — На языке **SQL** (диалект SQLite) опишите команды создания, наполнения и редактирования таблицы пользователей для локальной базы данных;
